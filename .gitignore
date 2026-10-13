@@ -1,0 +1,9 @@
+# Local environment variables and secrets
+.env
+.env.*
+
+# Allow the example configuration to be versioned
+!.env.example
+
+# Local IntelliJ IDEA configuration
+.idea/
